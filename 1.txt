@@ -1,1 +1,1 @@
-feature1+
+git remote add origin git@github.com:hellowu/gitFlow.git
